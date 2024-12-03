@@ -1,4 +1,4 @@
-👋 I’m @ayllya
+💫 I’m @ayllya
   
 <!---
 ayllya/ayllya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
